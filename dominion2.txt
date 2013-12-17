@@ -1,0 +1,16 @@
+#2       
+Dominion1
+Defiant
+102
+Akira
+184
+Galaxy
+82
+Attack Ship
+1
+Battle Cruiser
+7
+Galor
+10
+Vor'cha
+100
